@@ -55,10 +55,12 @@ void main()
 ```
 
 ## OUTPUT:
-
-<img width="1351" height="1164" alt="image" src="https://github.com/user-attachments/assets/d48a79e7-c5ea-4263-a71f-efbcb65c8814" />
-
-
+```
+Enter the text: Vidhulpraba
+Enter the key: 3
+Encrypted text: Yhodq
+Decrypted text: Vdhulpraba
+```
 
 
 
